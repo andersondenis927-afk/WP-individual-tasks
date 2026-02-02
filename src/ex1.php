@@ -41,7 +41,7 @@ $g3 = 5;
     </tr>
 </table>
 
-<img src="image.png">
+<img src="image.png" width = 600>
 
 </html>
 
