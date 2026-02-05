@@ -15,7 +15,7 @@
                 font-size:29px;
                 font-weight:800;
             ">
-                LAST MEAL
+                WEB PROGRAMMING
             </span>
         </div>
 
@@ -25,20 +25,26 @@
                 font-size:17px;
                 margin-bottom:10px;
             ">
-                About us
+                Task
             </h3>
             <ul style="list-style:none;padding:0;margin:0;">
                 <li style="margin-top:7px;opacity:0.8;">
-                    <a href="main.html" style="text-decoration:none;color:black;">Home</a>
+                    <a href="ex1.php" style="text-decoration:none;color:black;">Ex1</a>
                 </li>
                 <li style="margin-top:7px;opacity:0.8;">
-                    <a href="recipes.html" style="text-decoration:none;color:black;">Recipes</a>
+                    <a href="ex2.php" style="text-decoration:none;color:black;">Ex2</a>
                 </li>
                 <li style="margin-top:7px;opacity:0.8;">
-                    <a href="poisonrecipe.html" style="text-decoration:none;color:black;">Share your poison</a>
+                    <a href="ex3.php" style="text-decoration:none;color:black;">Ex3</a>
                 </li>
                 <li style="margin-top:7px;opacity:0.8;">
-                    <a href="account.html" style="text-decoration:none;color:black;">Witch account</a>
+                    <a href="ex4.php" style="text-decoration:none;color:black;">Ex4</a>
+                </li>
+                <li style="margin-top:7px;opacity:0.8;">
+                    <a href="ex5.php" style="text-decoration:none;color:black;">Ex5</a>
+                </li>
+                <li style="margin-top:7px;opacity:0.8;">
+                    <a href="ex6.php" style="text-decoration:none;color:black;">Ex6</a>
                 </li>
             </ul>
         </div>
@@ -49,17 +55,11 @@
                 font-size:17px;
                 margin-bottom:10px;
             ">
-                Contact us
+                Contact me
             </h3>
             <ul style="list-style:none;padding:0;margin:0;">
                 <li style="margin-top:7px;opacity:0.8;">
                     denis.anderson@student.hamk.fi
-                </li>
-                <li style="margin-top:7px;opacity:0.8;">
-                    martin.pevgonen@student.hamk.fi
-                </li>
-                <li style="margin-top:7px;opacity:0.8;">
-                    jekaterina.zasijenko@student.hamk.fi
                 </li>
             </ul>
         </div>

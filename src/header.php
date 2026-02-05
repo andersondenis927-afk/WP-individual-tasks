@@ -9,7 +9,7 @@
         font-size:29px;
         font-weight:800;
     ">
-        <a href="main.html" style="text-decoration:none;color:black;">Last Meal</a>
+        <a href="main.html" style="text-decoration:none;color:black;">Web Programming</a>
     </span>
 
     <nav style="float:right;width:50%;">
@@ -21,14 +21,14 @@
             padding:0;
         ">
             <li>
-                <a href="main.html" style="text-decoration:none;color:black;">
-                    Home
+                <a href="ex1.php" style="text-decoration:none;color:black;">
+                    Ex1
                 </a>
             </li>
 
             <li style="position:relative;">
-                <a href="recipes.html" style="text-decoration:none;color:black;">
-                    Recipes
+                <a href="ex2.php" style="text-decoration:none;color:black;">
+                    Ex2
                 </a>
                 <span style="
                     display:block;
@@ -43,14 +43,26 @@
             </li>
 
             <li>
-                <a href="poisonrecipe.html" style="text-decoration:none;color:black;">
-                    Share your poison
+                <a href="ex3.php" style="text-decoration:none;color:black;">
+                    Ex3
                 </a>
             </li>
 
             <li>
-                <a href="account.html" style="text-decoration:none;color:black;">
-                    Witch account
+                <a href="ex4.php" style="text-decoration:none;color:black;">
+                    Ex4
+                </a>
+            </li>
+
+            <li>
+                <a href="ex5.php" style="text-decoration:none;color:black;">
+                    Ex5
+                </a>
+            </li>
+
+            <li>
+                <a href="ex6.php" style="text-decoration:none;color:black;">
+                    Ex6
                 </a>
             </li>
         </ul>
